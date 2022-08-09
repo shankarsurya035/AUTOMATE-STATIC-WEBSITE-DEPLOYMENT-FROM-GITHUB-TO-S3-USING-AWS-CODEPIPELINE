@@ -6,7 +6,7 @@ Amazon S3 – A highly scalable object storage service. It can be used for a wid
 Prerequisites<br>
 An active AWS account Knowledge of Amazon S3<br>
 and AWS CodePipeline A static website<br>
-A GitHub repository
+A GitHub repository.
 
 ![9ik2arowayh87k53xub9](https://user-images.githubusercontent.com/82276019/183611176-ae5877b8-6850-4f79-8fd0-3994e713b1e7.png)
 
