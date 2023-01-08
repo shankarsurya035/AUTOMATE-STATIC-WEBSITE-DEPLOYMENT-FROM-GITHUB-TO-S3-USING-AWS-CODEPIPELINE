@@ -10,7 +10,7 @@ A GitHub repository.
 
 ![9ik2arowayh87k53xub9](https://user-images.githubusercontent.com/82276019/183611176-ae5877b8-6850-4f79-8fd0-3994e713b1e7.png)
 
- [embed]https://drive.google.com/file/d/1nGa30xwzkDZ-4NDYHhDrCTPMPUPA-EDK/view?usp=sharing[/embed]
+ [embed]https://drive.google.com/file/d/1nGa30xwzkDZ-4NDYHhDrCTPMPUPA-EDK/view?usp=sharing/CICD Codepipeline.pdf[/embed]
 
 
 <!-- [CICD Codepipeline.pdf](http://shankarsurya035.github.io/AUTOMATE-STATIC-WEBSITE-DEPLOYMENT-FROM-GITHUB-TO-S3-USING-AWS-CODEPIPELINE/CICD Codepipeline.pdf) -->
