@@ -12,5 +12,5 @@ A GitHub repository.
 
 
 
-<embed src="" type="CICD Codepipeline.pdf" width="100%" height="600%">
+<embed src="CICD Codepipeline.pdf" type="application/pdf" width="100%" height="600%">
 
